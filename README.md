@@ -1,8 +1,10 @@
 # Blend Modes for Lottie Creator
 
+![Blend Modes panel](screenshot.webp)
+
 A Lottie Creator plugin that applies blend modes to selected layers and groups in one click.
 
-![Blend Modes panel](screenshot.png)
+![Blend Modes panel](Screenshot.png)
 
 ## Features
 
