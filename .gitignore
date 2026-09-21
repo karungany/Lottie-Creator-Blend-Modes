@@ -1,4 +1,4 @@
 node_modules/
 dist/
-skills-lock.json/
+skills-lock.json
 *.log
