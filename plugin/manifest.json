@@ -1,0 +1,7 @@
+{
+  "id": "ec1749bb-6505-45cf-b5d2-1cf5ba273da9",
+  "name": "Kamotion Lottie Blend Modes",
+  "apiVersion": "1",
+  "entry": "plugin.js",
+  "ui": "ui.html"
+}
