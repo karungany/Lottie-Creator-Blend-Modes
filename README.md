@@ -2,6 +2,8 @@
 
 A Lottie Creator plugin that applies blend modes to selected layers and groups in one click.
 
+![Blend Modes panel](screenshot.png)
+
 ## Features
 
 - All 16 blend modes in one panel, grouped as Darken, Lighten, Contrast, Inversion and Component
